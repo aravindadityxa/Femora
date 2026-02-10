@@ -149,11 +149,23 @@ Future Enhancements
 Contributors
 ------------
 
-- Aravind Adityaa – Project Lead and Embedded Development  
-- Rajamurugan VS – Hardware Integration and Testing  
-- Derrick Nathaniel D – GSM and Communication Modules  
-- Krithik Ananth KA – RF Communication and Debugging  
-- Arun Kumar – System Design and Documentation  
+1)Rajamurugan VS – Project Lead & Hardware Integration
+ (Overall coordination, module integration, progress tracking)
+
+2)Aravind Adityaa – System Workflow & Implementation Support
+ (Understanding system flow, assisting development activities, coordination, basic validation)
+
+3)Derrick Nathaniel D – GSM and Communication Modules
+ (Handling GSM setup, message triggering, communication logic)
+
+4)Krithik Ananth KA – RF Communication & Debugging
+ (RF module configuration, signal testing, debugging support)
+
+5)Arun Kumar – System Design & Documentation
+ (System architecture, block diagrams, documentation)
+
+6)Ram – Power Management & Battery Systems
+ (Power supply planning, battery handling, power optimization)
 
 ---
 
